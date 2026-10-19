@@ -1,0 +1,23 @@
+
+# Secret API keys
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output
+output/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
